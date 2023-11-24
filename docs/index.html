@@ -1,9 +1,26 @@
 <!DOCTYPE html>
 <head>
     <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    <link rel="icon" type="image/png" href="../assets/favicon.png"/>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
+<title>
+    Pamivelu
+</title>
+
 <body style="background-color: #0f0f0f; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white;">
-    <p style="padding: 20px; border-radius: 8px; border: 0px solid; background-color: #333333;">
+    <h1 style="border: solid 0px; border-radius: 8px 8px 0px 0px; background-color: #e0e0e0; padding: 16px; margin-bottom: 0px; color: black;">Pamivelu</h1>
+    <p style="border: solid 0px; border-radius: 0px 0px 8px 8px; background-color: #e0e0e0; padding: 16px; margin-top: 0px; color: black;">
+        Pamivelu is a fabricated language, we worked on as a school project. Have a look around. Maybe you can find something interesting.
+    </p>
+    <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'Vocab')" id="defaultOpen">Vocabulary</button>
+        <button class="tablinks" onclick="openTab(event, 'Grammar')">Grammar</button>
+        <button class="tablinks" onclick="openTab(event, 'Contrib')">Contribute</button>
+    </div>
+
+    <div id="Vocab" class="tabcontent">
         <md-block>
 # Pamivelu
 ***
@@ -37,5 +54,15 @@ Sie (Mehrzahl): ve
 Unbestimmt: vu  
 Bestimmt: la  
         </md-block>
-    </p>
+    </div>
+    <div id="Grammar" class="tabcontent">
+        <md-block>
+
+        </md-block>
+    </div>
+    <div id="Contrib" class="tabcontent">
+        <md-block>
+
+        </md-block>
+    </div>
 </body>
