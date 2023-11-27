@@ -1,0 +1,22 @@
+[
+    {
+        "word": "pa",
+        "type": "numeric",
+        "translation": "zero"
+    },
+    {
+        "word": "pi",
+        "type": "numeric",
+        "translation": "one"
+    },
+    {
+        "word": "pe",
+        "type": "numeric",
+        "translation": "three"
+    },
+    {
+        "word": "pu",
+        "type": "numeric",
+        "translation": "four"
+    }
+]
