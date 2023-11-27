@@ -19,14 +19,81 @@
         something interesting.
     </p>
     <div class="tab">
-        <button class="tablinks" onclick="openTab(event, 'Vocab')" id="defaultOpen">Vocabulary</button>
-        <button class="tablinks" onclick="openTab(event, 'Grammar')">Grammar</button>
+        <button class="tablinks" onclick="openTab(event, 'Vocab')">Vocabulary</button>
+        <button class="tablinks" onclick="openTab(event, 'Grammar')" id="defaultOpen">Grammar</button>
+        <button class="tablinks" onclick="openTab(event, 'Writing')">Writing</button>
+        <button class="tablinks" onclick="openTab(event, 'Phonetics')">Phonetics</button>
         <button class="tablinks" onclick="openTab(event, 'Contrib')">Contribute</button>
     </div>
 
-    <div id="Vocab" class="tabcontent" style="margin: 4px;">
-
+    <div id="Vocab" class="tabcontent">
+        <div class="site-entry">
+            <h1>Vocabulary</h1>
+        </div>
     </div>
-    <div id="Grammar" class="tabcontent"></div>
-    <div id="Contrib" class="tabcontent"></div>
+    <div id="Grammar" class="tabcontent">
+        <div class="site-entry">
+            <h1>Grammar</h1>
+            <p>Here you can learn about the grammar of the language.</p>
+        </div>
+        <div class="site-entry">
+            <h2>Sentence Structure</h2>
+            <p>The base sentence structure goes as follows:</p>
+            <p><b><i>subject, verb, object, verb, object, ...</i></b></p>
+            <p>
+                • There can be one ore more adjectives/abverbs after every element of the sentence<br>
+                • Prepositions act like adverbs
+            </p>
+        </div>
+        <div class="site-entry">
+            <h3>Clauses</h3>
+            <p>
+                • <b>Akkusativ</b><br>
+                ...
+            </p>
+        </div>
+        <div class="site-entry">
+            <h2>Word Types</h2>
+        </div>
+    </div>
+    <div id="Writing" class="tabcontent">
+        <div class="site-entry">
+            <h1>Writing</h1>
+            <p>
+                This is the writing system of <i>Pamivelu</i>. It was originally inspired by Korean hangul.
+            </p>
+            <p>
+                There are symbols for both consonants and vowels, which can be combined into sillabyls. The consonant
+                always comes first, followed by a vowel.
+            </p>
+        </div>
+        <div class="site-entry">
+            <h2>Consonants</h2>
+            <p>
+                <b>p:</b> |<br>
+                <b>m:</b> -<br>
+                <b>ʋ:</b> /<br>
+                <b>l:</b> \
+            </p>
+        </div>
+        <div class="site-entry">
+            <h2>Vowels</h2>
+            <p>
+                <b>ɐ:</b> |<br>
+                <b>i:</b> -<br>
+                <b>ə:</b> /<br>
+                <b>ʉ:</b> \
+            </p>
+        </div>
+    </div>
+    <div id="Phonetics" class="tabcontent">
+        <div class="site-entry">
+            ɐ, i, ə, ʉ, p, m, ʋ, l
+        </div>
+    </div>
+    <div id="Contrib" class="tabcontent">
+        <div class="site-entry">
+            Feel free to contribute over on our github
+        </div>
+    </div>
 </body>
