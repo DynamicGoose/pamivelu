@@ -12,11 +12,191 @@
     {
         "word": "pe",
         "type": "numeric",
-        "translation": "three"
+        "translation": "two"
     },
     {
         "word": "pu",
         "type": "numeric",
+        "translation": "three"
+    },
+    {
+        "word": "mi",
+        "type": "numeric",
         "translation": "four"
+    },
+    {
+        "word": "me",
+        "type": "numeric",
+        "translation": "five"
+    },
+    {
+        "word": "mu",
+        "type": "numeric",
+        "translation": "six"
+    },
+    {
+        "word": "vi",
+        "type": "numeric",
+        "translation": "seven"
+    },
+    {
+        "word": "ve",
+        "type": "numeric",
+        "translation": "eight"
+    },
+    {
+        "word": "vu",
+        "type": "numeric",
+        "translation": "nine"
+    },
+    {
+        "word": "lu",
+        "type": "particle",
+        "translation": "particle, that indicates a number"
+    },
+    {
+        "word": "ma",
+        "type": "pronoun",
+        "translation": "I"
+    },
+    {
+        "word": "mi",
+        "type": "pronoun",
+        "translation": "you"
+    },
+    {
+        "word": "me",
+        "type": "pronoun",
+        "translation": "he, she"
+    },
+    {
+        "word": "va",
+        "type": "pronoun",
+        "translation": "it (also used as plural)"
+    },
+    {
+        "word": "vi",
+        "type": "pronoun",
+        "translation": "we"
+    },
+    {
+        "word": "ve",
+        "type": "pronoun",
+        "translation": "they"
+    },
+    {
+        "word": "vu",
+        "type": "article",
+        "translation": "specific article"
+    },
+    {
+        "word": "la",
+        "type": "article",
+        "translation": "unspecific article"
+    },
+    {
+        "word": "vi",
+        "type": "verb",
+        "translation": "to go, walk"
+    },
+    {
+        "word": "va",
+        "type": "verb",
+        "translation": "to be"
+    },
+    {
+        "word": "vamu",
+        "type": "verb",
+        "translation": "to have"
+    },
+    {
+        "word": "Mepela",
+        "type": "noun",
+        "translation": "rejection, refusal"
+    },
+    {
+        "word": "Mevamemalelilo",
+        "type": "noun",
+        "translation": "alcohol"
+    },
+    {
+        "word": "Momevapo",
+        "type": "noun",
+        "translation": "amphib"
+    },
+    {
+        "word": "Molipale",
+        "type": "noun",
+        "translation": "bee"
+    },
+    {
+        "word": "Momeva",
+        "type": "noun",
+        "translation": "fish"
+    },
+    {
+        "word": "Mevame",
+        "type": "noun",
+        "translation": "liquid"
+    },
+    {
+        "word": "Memi",
+        "type": "noun",
+        "translation": "house"
+    },
+    {
+        "word": "Moli",
+        "type": "noun",
+        "translation": "bug"
+    },
+    {
+        "word": "Mali",
+        "type": "noun",
+        "translation": "child"
+    },
+    {
+        "word": "Ma",
+        "type": "noun",
+        "translation": "human"
+    },
+    {
+        "word": "Me",
+        "type": "noun",
+        "translation": "object"
+    },
+    {
+        "word": "Mi",
+        "type": "noun",
+        "translation": "plant"
+    },
+    {
+        "word": "Momepo",
+        "type": "noun",
+        "translation": "reptile"
+    },
+    {
+        "word": "Mepo",
+        "type": "noun",
+        "translation": "scale"
+    },
+    {
+        "word": "Mo",
+        "type": "noun",
+        "translation": "animal"
+    },
+    {
+        "word": "Malelilo",
+        "type": "noun",
+        "translation": "crazy person"
+    },
+    {
+        "word": "Meva",
+        "type": "noun",
+        "translation": "water"
+    },
+    {
+        "word": "Mevi",
+        "type": "noun",
+        "translation": "way"
     }
 ]
