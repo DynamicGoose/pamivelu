@@ -1,3 +1,13 @@
+@font-face {
+  font-family: Ubuntu-Nerdfont;
+  src: url('/fonts/Ubuntu/UbuntuNerdFont-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Ubuntu-Nerdfont-Bold;
+  src: url('/fonts/Ubuntu/UbuntuNerdFont-Bold.ttf');
+}
+
 .tab {
   overflow: hidden;
   background-color: #0f0f0f;
@@ -40,21 +50,29 @@
 }
 
 h1 {
+  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h2 {
+  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h3 {
+  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h4 {
+  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 p {
   margin-bottom: 0px;
+}
+
+b {
+  font-family: Ubuntu-Nerdfont-Bold;
 }
