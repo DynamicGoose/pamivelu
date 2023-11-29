@@ -15,10 +15,7 @@ window.addEventListener("load", function () {
 
 function appendData(data) {
   var vocabContainer = document.getElementById("Vocab");
-  var sortedData = data.sort(function (a, b) {
-    return (a.word.toUpperCase() > b.word.toLowerCase()) ? 1 : ((b.word.toLowerCase() > a.word.toLowerCase()) ? -1 : 0)
-  });
-
+  var sortedData = data.sort((a, b) => a.word.localeCompare(b.word));
   for (var i = 0; i < sortedData.length; i++) {
     var div = document.createElement("div");
     div.className = "site-entry";
