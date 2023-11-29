@@ -110,93 +110,98 @@
         "translation": "to have"
     },
     {
-        "word": "Mepela",
+        "word": "mepela",
         "type": "noun",
         "translation": "rejection, refusal"
     },
     {
-        "word": "Mevamemalelilo",
+        "word": "mevamemalelilo",
         "type": "noun",
         "translation": "alcohol"
     },
     {
-        "word": "Momevapo",
+        "word": "momevapo",
         "type": "noun",
         "translation": "amphib"
     },
     {
-        "word": "Molipale",
+        "word": "molipale",
         "type": "noun",
         "translation": "bee"
     },
     {
-        "word": "Momeva",
+        "word": "momeva",
         "type": "noun",
         "translation": "fish"
     },
     {
-        "word": "Mevame",
+        "word": "mevame",
         "type": "noun",
         "translation": "liquid"
     },
     {
-        "word": "Memi",
+        "word": "memi",
         "type": "noun",
         "translation": "house"
     },
     {
-        "word": "Moli",
+        "word": "moli",
         "type": "noun",
         "translation": "bug"
     },
     {
-        "word": "Mali",
+        "word": "mali",
         "type": "noun",
         "translation": "child"
     },
     {
-        "word": "Ma",
+        "word": "ma",
         "type": "noun",
         "translation": "human"
     },
     {
-        "word": "Me",
+        "word": "me",
         "type": "noun",
         "translation": "object"
     },
     {
-        "word": "Mi",
+        "word": "mi",
         "type": "noun",
         "translation": "plant"
     },
     {
-        "word": "Momepo",
+        "word": "momepo",
         "type": "noun",
         "translation": "reptile"
     },
     {
-        "word": "Mepo",
+        "word": "mepo",
         "type": "noun",
         "translation": "scale"
     },
     {
-        "word": "Mo",
+        "word": "mo",
         "type": "noun",
         "translation": "animal"
     },
     {
-        "word": "Malelilo",
+        "word": "malelilo",
         "type": "noun",
         "translation": "crazy person"
     },
     {
-        "word": "Meva",
+        "word": "meva",
         "type": "noun",
         "translation": "water"
     },
     {
-        "word": "Mevi",
+        "word": "mevi",
         "type": "noun",
         "translation": "way"
+    },
+    {
+        "word": "li",
+        "type": "adjective",
+        "translation": "small"
     }
 ]

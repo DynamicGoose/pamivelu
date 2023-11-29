@@ -15,11 +15,14 @@ window.addEventListener("load", function () {
 
 function appendData(data) {
   var vocabContainer = document.getElementById("Vocab");
-  console.log(vocabContainer);
-  for (var i = 0; i < data.length; i++) {
+  var sortedData = data.sort(function (a, b) {
+    return (a.word.toUpperCase() > b.word.toLowerCase()) ? 1 : ((b.word.toLowerCase() > a.word.toLowerCase()) ? -1 : 0)
+  });
+
+  for (var i = 0; i < sortedData.length; i++) {
     var div = document.createElement("div");
     div.className = "site-entry";
-    div.innerHTML = '<h3 style="margin: 0">' + data[i].word + '</h3>' + '<p style="margin: 0px; font-style: italic">' + data[i].type + '<p>' + '<p style="margin-bottom: 0px">' + data[i].translation + '</p>';
+    div.innerHTML = '<h3 style="margin: 0">' + sortedData[i].word + '</h3>' + '<p style="margin: 0px; font-style: italic">' + sortedData[i].type + '<p>' + '<p style="margin-bottom: 0px">' + sortedData[i].translation + '</p>';
     vocabContainer.appendChild(div);
   }
 }
