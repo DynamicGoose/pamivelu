@@ -40,22 +40,18 @@
 }
 
 h1 {
-  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h2 {
-  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h3 {
-  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
 h4 {
-  font-family: Ubuntu-Nerdfont-Bold;
   margin: 0;
 }
 
@@ -63,6 +59,6 @@ p {
   margin-bottom: 0px;
 }
 
-b {
-  font-family: Ubuntu-Nerdfont-Bold;
+a {
+  color: #e0e0e0;
 }
