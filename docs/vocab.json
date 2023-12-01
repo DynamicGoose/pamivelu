@@ -95,7 +95,7 @@
         "translation": "unspecific article"
     },
     {
-        "word": "vi",
+        "word": "ve",
         "type": "verb",
         "translation": "to go, walk"
     },
@@ -115,12 +115,12 @@
         "translation": "rejection, refusal"
     },
     {
-        "word": "mevamemalelilu",
+        "word": "melamemalelilu",
         "type": "noun",
         "translation": "alcohol"
     },
     {
-        "word": "mumevapu",
+        "word": "mumelapu",
         "type": "noun",
         "translation": "amphib"
     },
@@ -130,12 +130,12 @@
         "translation": "bee"
     },
     {
-        "word": "mumeva",
+        "word": "mumela",
         "type": "noun",
         "translation": "fish"
     },
     {
-        "word": "mevame",
+        "word": "melame",
         "type": "noun",
         "translation": "liquid"
     },
@@ -190,12 +190,12 @@
         "translation": "crazy person"
     },
     {
-        "word": "meva",
+        "word": "mela",
         "type": "noun",
         "translation": "water"
     },
     {
-        "word": "mevi",
+        "word": "meve",
         "type": "noun",
         "translation": "way"
     },
@@ -215,7 +215,7 @@
         "translation": "greeting"
     },
     {
-    	"word": "mumumu",
+    	"word": "mumumumu",
         "type": "noun",
         "translation": "repetition"
     },
@@ -228,5 +228,30 @@
         "word": "malili",
         "type": "noun",
         "translation": "infant"
+    },
+    {
+    	"word": "mupapi",
+        "type": "noun",
+        "translation": "complete annihilation"
+    },
+    {
+    	"word": "mamupapi",
+        "type": "noun",
+        "translation": "annihilator"
+    },
+    {
+    	"word": "malilimamupapi",
+        "type": "noun",
+        "translation": "infant annihilator"
+    },
+    {
+    	"word": "pa",
+        "type": "preposition",
+        "translation": "to"
+    },
+    {
+    	"word": "pu",
+        "type": "preposition",
+        "translation": "owned by"
     }
 ]
