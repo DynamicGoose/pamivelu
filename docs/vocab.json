@@ -115,22 +115,22 @@
         "translation": "rejection, refusal"
     },
     {
-        "word": "mevamemalelilo",
+        "word": "mevamemalelilu",
         "type": "noun",
         "translation": "alcohol"
     },
     {
-        "word": "momevapo",
+        "word": "mumevapu",
         "type": "noun",
         "translation": "amphib"
     },
     {
-        "word": "molipale",
+        "word": "mulipale",
         "type": "noun",
         "translation": "bee"
     },
     {
-        "word": "momeva",
+        "word": "mumeva",
         "type": "noun",
         "translation": "fish"
     },
@@ -145,7 +145,7 @@
         "translation": "house"
     },
     {
-        "word": "moli",
+        "word": "muli",
         "type": "noun",
         "translation": "bug"
     },
@@ -155,37 +155,37 @@
         "translation": "child"
     },
     {
-        "word": "ma",
+        "word": "malu",
         "type": "noun",
         "translation": "human"
     },
     {
-        "word": "me",
+        "word": "melu",
         "type": "noun",
         "translation": "object"
     },
     {
-        "word": "mi",
+        "word": "milu",
         "type": "noun",
         "translation": "plant"
     },
     {
-        "word": "momepo",
+        "word": "mumepu",
         "type": "noun",
         "translation": "reptile"
     },
     {
-        "word": "mepo",
+        "word": "mepu",
         "type": "noun",
         "translation": "scale"
     },
     {
-        "word": "mo",
+        "word": "mulu",
         "type": "noun",
         "translation": "animal"
     },
     {
-        "word": "malelilo",
+        "word": "malelilu",
         "type": "noun",
         "translation": "crazy person"
     },
@@ -203,5 +203,29 @@
         "word": "li",
         "type": "adjective",
         "translation": "small"
-    }
+    },
+    {
+    	"word": "lu",
+        "type": "adjective",
+        "translation": "normal"   
+    },
+    {
+    	"word": "mamama",
+        "type": "noun",
+        "translation": "greeting"
+    },
+    {
+    	"word": "mumumu",
+        "type": "noun",
+        "translation": "repetition"
+    },
+    {
+    	"word": "mapa",
+        "type": "noun",
+    	"translation": "parent"
+    },
+    {
+        "word": "malili",
+        "type": "noun",
+        "translation": "infant"
 ]
